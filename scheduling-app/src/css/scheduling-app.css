@@ -1,3 +1,7 @@
+.container {
+  max-width: auto !important;
+}
+
 #errors-row {
   display: none;
 }
